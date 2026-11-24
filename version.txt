@@ -1,1 +1,1 @@
-VERSION: A+b merged
+Version:A+B merged
